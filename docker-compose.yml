@@ -1,0 +1,9 @@
+version: '3.5'
+services:
+  connect-four-sciplay:
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - "C:/development/projects/connect-four-sciplay:/var/www/html/"
+
