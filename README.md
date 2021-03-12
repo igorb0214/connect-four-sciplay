@@ -1,4 +1,4 @@
-# product-box-elementor
+# connect-four-sciplay
 
 ## Installation
 - pull repository:<br/>
